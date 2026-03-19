@@ -36,6 +36,12 @@ Age-Gender-Prediction/
 ├── models/
 │   └── age_gender_model.keras
 │
+├── outputs/
+│   ├── output_1.png
+│   ├── output_2.png
+│   ├── output_3.png
+│   ├── output_4.png
+│
 ├── src/
 │   └── app.py
 │
@@ -50,6 +56,22 @@ Age-Gender-Prediction/
 The trained model (age_gender_model.keras) is stored using **Git LFS** due to its large size.
 
 To download: Click on the file → Click "View Raw"
+
+---
+
+## Output Screenshots
+
+### Output 1
+![Output 1](outputs/output_1.png)
+
+### Output 2
+![Output 2](outputs/output_2.png)
+
+### Output 3
+![Output 3](outputs/output_3.png)
+
+### Output 4
+![Output 4](outputs/output_4.png)
 
 ---
 
