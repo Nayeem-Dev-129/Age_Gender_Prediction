@@ -95,8 +95,6 @@ The model is trained on the **UTKFace dataset**, which contains facial images la
 git clone https://github.com/Nayeem-Dev-129/Age_Gender_Prediction.git
 
 cd Age_Gender_Prediction
-
-pip install -r requirements.txt
 ```
 
 2️⃣ Install dependencies
@@ -110,7 +108,7 @@ pip install -r requirements.txt
 ## ▶️ Run the Application
 
 ```bash
-streamlit run src/app.py
+streamlit run src/real_time_age_gender_prediction.py
 ```
 
 ---
