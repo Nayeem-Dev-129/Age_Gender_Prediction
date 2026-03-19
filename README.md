@@ -43,7 +43,7 @@ Age-Gender-Prediction/
 │   ├── output_4.png
 │
 ├── src/
-│   └── app.py
+│   └── real_time_age_gender_prediction.py
 │
 ├── README.md
 ├── requirements.txt
